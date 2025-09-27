@@ -112,6 +112,7 @@ const DEFAULT_PROMPTS = [
   { color: '#5200ff', text: 'Trip Hop' },
   { color: '#d9b2ff', text: 'Thrash' },
   { color: '#ff4500', text: 'Trap EDM fusion, heavy 808s, sharp hi-hats, massive build-up, festival drop with distorted synths, 140 BPM, energetic and powerful.' },
+  { color: '#20c997', text: 'Deep house track with smooth bassline, soft pads, groovy percussion, soulful vocal chops, 120 BPM, relaxing but still danceable, beach club atmosphere.' },
 ];
 
 main();

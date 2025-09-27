@@ -15,7 +15,7 @@ const HALO_LEVEL_MODIFIER = 1;
 
 /** A knob for adjusting and visualizing prompt weight. */
 @customElement('weight-knob')
-// FIX: Add 'extends LitElement' to define this as a Lit component.
+// FIX: The class must extend LitElement to be a valid Lit component.
 export class WeightKnob extends LitElement {
   static override styles = css`
     :host {
